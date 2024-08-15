@@ -1,0 +1,14 @@
+{
+  "version": "c217acde",
+  "changeset": "c217acde070bcae1b57bda20393f958867740a9a",
+  "timestamp": 1723613365,
+  "channel": "dev",
+  "updateInfo": [
+    {
+      "channel": "dev",
+      "method": "appcenter",
+      "updateCatalog": "https://install.appcenter.ms/api/v0.1/apps/grumpycoders/pcsx-redux-macos/distribution_groups/public/public_releases",
+      "updateInfoBase": "https://install.appcenter.ms/api/v0.1/apps/grumpycoders/pcsx-redux-macos/distribution_groups/public/releases/"
+    }
+  ]
+}
